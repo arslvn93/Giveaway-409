@@ -162,7 +162,7 @@ const config = {
     ],
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/XJJFJP9sLnGUcLF1yfop/webhook-trigger/D7wvYvKJ8DURX1ECSmjG",
     "theme": "dark",
-    "primaryColorOverride": "#e8291c",
+    "primaryColorOverride": "",
     "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "showCountdownInHero": true
   },
@@ -175,7 +175,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750255271791_0",
+      "id": "q_auto_1750255280403_0",
       "questionText": "How often do you attend local sports events like baseball games?",
       "options": [
         {
@@ -197,7 +197,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750255271791_1",
+      "id": "q_auto_1750255280403_1",
       "questionText": "When choosing leisure activities, which factors are most important to you?",
       "options": [
         {
@@ -219,7 +219,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750255271791_2",
+      "id": "q_auto_1750255280403_2",
       "questionText": "How do you typically stay informed about events and offers in your neighborhood?",
       "options": [
         {
@@ -241,7 +241,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750255271791_3",
+      "id": "q_auto_1750255280403_3",
       "questionText": "Imagine you could design your ideal day around your favorite activity. What does that day look like?",
       "options": [
         {
