@@ -169,13 +169,13 @@ const config = {
   "deploymentInfo": {
     "repoName": "Giveaway-409",
     "repoUrl": "https://github.com/arslvn93/Giveaway-409",
-    "tag": "",
+    "tag": "Bluejays Giveaway",
     "netlifyUrl": "http://Giveaway-409.netlify.app",
     "netlifyId": ""
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750255280403_0",
+      "id": "q_auto_1750256936696_0",
       "questionText": "How often do you attend local sports events like baseball games?",
       "options": [
         {
@@ -197,7 +197,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750255280403_1",
+      "id": "q_auto_1750256936696_1",
       "questionText": "When choosing leisure activities, which factors are most important to you?",
       "options": [
         {
@@ -219,7 +219,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750255280403_2",
+      "id": "q_auto_1750256936696_2",
       "questionText": "How do you typically stay informed about events and offers in your neighborhood?",
       "options": [
         {
@@ -241,7 +241,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750255280403_3",
+      "id": "q_auto_1750256936696_3",
       "questionText": "Imagine you could design your ideal day around your favorite activity. What does that day look like?",
       "options": [
         {
